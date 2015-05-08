@@ -5,11 +5,6 @@ This project summarizes some patches to the arduino core and bootloader to get t
 
 The philosophy behind my changes is to support many avr's in the core files and to concentrate the board specific details in one file. So porting to other hardware should be very easy.
 
-##avr-netino-04Oct2013.zip   613 KB
-###Description:	
->This is a update release.
->The core is updated to arduino 1.0.5
->SD updated to arduino 1.0.5
 
 >EtherCard is updated to Ver. of Aug. 2013 from https://github.com/jcw/ethercard
 
